@@ -1,4 +1,4 @@
-# DSA Library Management System
+# Library Management Project (DSA)
 
 ![Language](https://img.shields.io/badge/Language-C++-blue)
 ![Semester](https://img.shields.io/badge/Semester-3rd-orange)
@@ -7,7 +7,9 @@
 ---
 
 ## Introduction
-The **DSA Library Management System** is a C++ console-based program designed to manage books and students in a library using **linked lists** and other **data structure and algorithm concepts**. It allows users to add, display, sort, search, update, and delete books, as well as manage students and track book issuance and returns. The system demonstrates practical applications of **bubble sort**, **binary search**, and **linked lists** in a real-world scenario.
+The **DSA Library Management System** is a **C++ console-based project** developed as part of the **3rd-semester coursework**. It is designed to efficiently manage books and students in a library using **Data Structures and Algorithms (DSA) concepts**.
+
+The system uses **linked lists** to dynamically store book and student records, ensuring flexibility and efficient memory usage. Key algorithms, such as **bubble sort** for sorting books by their ID and **binary search** for fast book retrieval, are implemented to optimize performance.
 
 ---
 
